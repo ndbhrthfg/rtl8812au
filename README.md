@@ -72,6 +72,9 @@ Eventually remove from DKMS with:
 ```sh
 $ sudo make dkms_remove
 ```
+sudo make
+sudo make install
+sudo modprobe 8812au
 
 ### References
 
